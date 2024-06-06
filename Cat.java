@@ -3,7 +3,7 @@
  * Cat
  */
 
-public class Cat {
+public class Cat { // reserved keyword
     public void drink() {
         System.out.println("I'm drinking");
     }
